@@ -6,9 +6,11 @@ public class followPlayer : MonoBehaviour {
 
 	public Transform player;
 	public Vector3 offset;
+	public float yRot;
 
 	// Update is called once per frame
 	void Update () {
 		transform.position = player.position + offset;
+		transform.eulerAngles = new Vector3 (0,yRot,0);
 	}
 }
