@@ -1,7 +1,7 @@
 # Project-Hover-Thing
 Build this game in Unity.
 
-This (currently unnamed) project is simple; press "w" (will be remapped to the touchscreen when ported to Android) to make your cube fly. You must reach the red landing point to progress to the next level. To move around the map, you must bump into objects that will change your angle. It's a little hard to explain, so how about you take it for a spin and see for your self!
+This (currently unnamed) project is simple; tap the screen (or press "w") to make your cube fly. You must reach the red landing point to progress to the next level. To move around the map, you must bump into objects that will change your angle. It's a little hard to explain, so how about you take it for a spin and see for your self!
 
 ## Committing to this repository
 
