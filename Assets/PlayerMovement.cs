@@ -11,6 +11,13 @@ public class PlayerMovement : MonoBehaviour {
 	public float jump;
 	public Transform player;
 	public GameObject other;
+
+	//These values are for rotating the camera upon colliding with an object.
+	public Transform Camera;
+	public float xRot;
+	public float yRot;
+	public float zRot;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -66,6 +73,11 @@ public class PlayerMovement : MonoBehaviour {
 			Debug.Log ("Collide with zJump Tag");
 			rb.AddForce (0, 0, jump);
 	}
+		if (col.gameObject.tag == "RotateCam") {
+			Debug.Log ("Collide with RotateCame Tag");
+			Camera.transform.eulerAngles = new Vector3 (0, yRot, 0);
+
+}
 }
 }
 

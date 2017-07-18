@@ -54,8 +54,10 @@
      <Compile Include="Assets\Rotate.cs" />
      <Compile Include="Assets\StartGame.cs" />
      <Compile Include="Assets\Timer.cs" />
+     <Compile Include="Assets\URLS.cs" />
      <Compile Include="Assets\UnRot.cs" />
      <Compile Include="Assets\followPlayer.cs" />
+     <Compile Include="Assets\rotateCamera.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

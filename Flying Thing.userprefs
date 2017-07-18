@@ -1,10 +1,16 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ResetFollow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\StartGame.cs">
     <Files>
-      <File FileName="Assets\PlayerMovement.cs" Line="31" Column="42" />
-      <File FileName="Assets\followPlayer.cs" Line="1" Column="1" />
-      <File FileName="Assets\ResetFollow.cs" Line="11" Column="18" />
+      <File FileName="Assets\PlayerMovement.cs" Line="50" Column="73" />
+      <File FileName="Assets\followPlayer.cs" Line="9" Column="20" />
+      <File FileName="Assets\Reset.cs" Line="4" Column="1" />
+      <File FileName="Assets\UnRot.cs" Line="4" Column="1" />
+      <File FileName="Assets\Next.cs" Line="4" Column="1" />
+      <File FileName="Assets\Rotate.cs" Line="14" Column="31" />
+      <File FileName="Assets\Moving.cs" Line="19" Column="94" />
+      <File FileName="Assets\Timer.cs" Line="21" Column="17" />
+      <File FileName="Assets\StartGame.cs" Line="13" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
