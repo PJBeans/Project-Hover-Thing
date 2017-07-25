@@ -1,6 +1,10 @@
 # The-Cube-Trials
 Build this game in Unity.
 
+## NOTE: I won't be developing for this project for a little while. Despite what the end-of-game message declares, do not expect this to be on the Google Play Store anytime soon.
+
+^ The reason for this is that I feel the game is just to tedious rather than fun. If I (or you, it's open-sourced ;) ) have better ideas for level design, I'll push them to the repository (or you'll create a pull request).
+
 "The Cube Trials" project is simple; tap the screen (or press "w") to make your cube fly. You must reach the red landing point to progress to the next level. To move around the map, you must bump into objects that will change your angle. It's a little hard to explain, so how about you take it for a spin and see for your self!
 
 ## Committing to this repository
